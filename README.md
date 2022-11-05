@@ -13,8 +13,7 @@ This is a personal collection of papers, blogs, and videos for new learners of a
 2. [System Design for Recommendations and Search](https://eugeneyan.com/writing/system-design-for-discovery/) `Eugene Yan` `2021`
 3. [Patterns for Personalization in Recommendations and Search](https://eugeneyan.com/writing/patterns-for-personalization/) `Eugene Yan` `2021`
 4. [How to Build a Deep Learning Powered Recommender System, Part 2](https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-2-deep-learning-for-recommender-systems/) `NVIDIA` `2021`
-5. Real-time Serving VS. batch serving
-. [Real-time Machine Learning For Recommendations](https://eugeneyan.com/writing/real-time-recommendations/) `Eugene Yan` `2021`
+5. [Real-time Machine Learning For Recommendations](https://eugeneyan.com/writing/real-time-recommendations/) `Eugene Yan` `2021`
 6. [Ten Mistakes to Avoid When Creating a Recommendation System](https://funcorp.dev/blog/ten-mistakes-to-avoid) `Funcorp` `2022`
 7. [Core Modeling at Instagram](https://instagram-engineering.com/core-modeling-at-instagram-a51e0158aa48) `Instagram` 2019
 8. [Improving job matching with machine-learned activity features](https://engineering.linkedin.com/blog/2022/improving-job-matching-with-machine-learned-activity-features-) `Linkedin` `2022`
