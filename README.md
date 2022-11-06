@@ -50,7 +50,7 @@ This is a collection of papers, blogs, and videos I have read/watched as a learn
 ## Search
 1. [Search - Query Matching via Lexical, Graph, and Embedding Methods](https://eugeneyan.com/writing/search-query-matching/) `Eugene Yan` `2021`
 2. [Embedding-based Retrieval in Facebook Search](https://arxiv.org/pdf/2006.11632.pdf) `Facebook` `2020`
-    * Very inspiring paper. Especially where it discusses the choice of labels.
+    * Very inspiring paper. Especially where it discusses the reasoning and experiments behind the choices of positive/negative labels.
 
 ## Integrity:
 1. [Preserving Integrity in Online Social Networks](https://arxiv.org/pdf/2009.10311.pdf) `Facebook` `2020`
