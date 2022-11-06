@@ -1,21 +1,30 @@
 # applied-ml-learning
-This is a personal collection of papers, blogs, and videos for new learners of applied machine learning. Pull requests welcomed.
+This is a collection of papers, blogs, and videos I have read/watched as a learner of applied machine learning, together with scattered comments. Suggestions and pull requests welcomed.
 
 
 ## Books:
 1. [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) `Chip Huyen` `2022`
+    * Covers end-to-end life cycle of ML with real industry examples. Must read.
 2. [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/) `Valliappa Lakshmanan, Sara Robinson, Michael Munn` `2020`
+    * A good complementary to Chip Huyen's book.
 
 ## Recommendation System
 ### RecSys Design Patterns:
 
 1. [Moving Beyond Recommender Models: the Four Stages of Production Recommeder Systems (Video)](https://www.youtube.com/watch?v=5qjiY-kLwFY) `NVIDIA` `2021`
+    * Clear summary of the four stages of RecSys, great for first-time learners.
 2. [System Design for Recommendations and Search](https://eugeneyan.com/writing/system-design-for-discovery/) `Eugene Yan` `2021`
+    * Great summary of the online/offline components of RecSys.
 3. [Patterns for Personalization in Recommendations and Search](https://eugeneyan.com/writing/patterns-for-personalization/) `Eugene Yan` `2021`
+    * How to summarize embeddings.
 4. [How to Build a Deep Learning Powered Recommender System, Part 2](https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-2-deep-learning-for-recommender-systems/) `NVIDIA` `2021`
+    * Introduction of common Deep Learning models used in RecSys.
 5. [Real-time Machine Learning For Recommendations](https://eugeneyan.com/writing/real-time-recommendations/) `Eugene Yan` `2021`
+    * Great discussions about batch VS. real-time scoring.
 6. [Ten Mistakes to Avoid When Creating a Recommendation System](https://funcorp.dev/blog/ten-mistakes-to-avoid) `Funcorp` `2022`
+    * Practical and comprehensive guide from practitioner's perspective.
 7. [Core Modeling at Instagram](https://instagram-engineering.com/core-modeling-at-instagram-a51e0158aa48) `Instagram` 2019
+    * Gem that discusses the nitty-gritty details in the system.
 8. [Improving job matching with machine-learned activity features](https://engineering.linkedin.com/blog/2022/improving-job-matching-with-machine-learned-activity-features-) `Linkedin` `2022`
 
 ### Classical Papers
@@ -35,14 +44,17 @@ This is a personal collection of papers, blogs, and videos for new learners of a
 
 ### Surfacing (Ordering/Reranking)
 1. [Homepage Recommendation with Exploitation and Exploration](https://doordash.engineering/2022/10/05/homepage-recommendation-with-exploitation-and-exploration/) `DoorDash` `2022`
+    * Discusses the challenging problem of carousel ranking.
 
 
 ## Search
 1. [Search - Query Matching via Lexical, Graph, and Embedding Methods](https://eugeneyan.com/writing/search-query-matching/) `Eugene Yan` `2021`
 2. [Embedding-based Retrieval in Facebook Search](https://arxiv.org/pdf/2006.11632.pdf) `Facebook` `2020`
+    * Very inspiring paper. Especially where it discusses the choice of labels.
 
 ## Integrity:
 1. [Preserving Integrity in Online Social Networks](https://arxiv.org/pdf/2009.10311.pdf) `Facebook` `2020`
+    * Comprehensive survey in the area of social media content moderation.
 2. [Machine Learning for Fraud Detection in Streaming Services](https://netflixtechblog.medium.com/machine-learning-for-fraud-detection-in-streaming-services-b0b4ef3be3f6) `Netflix` `2022`
 
 
