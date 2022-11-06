@@ -33,7 +33,7 @@ This is a personal collection of papers, blogs, and videos for new learners of a
 5. [On YouTube’s recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/) `YouTube` `2021`
 6. [How we use AutoML, Multi-task learning and Multi-tower models for Pinterest Ads](https://medium.com/pinterest-engineering/how-we-use-automl-multi-task-learning-and-multi-tower-models-for-pinterest-ads-db966c3dc99e) `Pinterest` `2020`
 
-### Surfacing (Reranking)
+### Surfacing (Ordering/Reranking)
 1. [Homepage Recommendation with Exploitation and Exploration](https://doordash.engineering/2022/10/05/homepage-recommendation-with-exploitation-and-exploration/) `DoorDash` `2022`
 
 
