@@ -15,17 +15,19 @@ This is a collection of papers, blogs, and videos I have read/watched as a learn
     * Clear summary of the four stages of RecSys, great for first-time learners.
 2. [System Design for Recommendations and Search](https://eugeneyan.com/writing/system-design-for-discovery/) `Eugene Yan` `2021`
     * Great summary of the online/offline components of RecSys.
-3. [Patterns for Personalization in Recommendations and Search](https://eugeneyan.com/writing/patterns-for-personalization/) `Eugene Yan` `2021`
+3. [RecSys Design & Its Evaluations, Video](https://youtu.be/PRjfT_Lt0uk?t=4769) [(Slides)](https://docs.google.com/presentation/d/1u8UPRYuQdB6GIe7A8jHKSQurnBi6HGKr2IVjhoXh9YM/edit#slide=id.p1) `MLOps Learners` `2022`
+    * Great discussions on the metrics used in RecSys.
+4. [Patterns for Personalization in Recommendations and Search](https://eugeneyan.com/writing/patterns-for-personalization/) `Eugene Yan` `2021`
     * How to summarize embeddings.
-4. [How to Build a Deep Learning Powered Recommender System, Part 2](https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-2-deep-learning-for-recommender-systems/) `NVIDIA` `2021`
+5. [How to Build a Deep Learning Powered Recommender System, Part 2](https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-2-deep-learning-for-recommender-systems/) `NVIDIA` `2021`
     * Introduction of common Deep Learning models used in RecSys.
-5. [Real-time Machine Learning For Recommendations](https://eugeneyan.com/writing/real-time-recommendations/) `Eugene Yan` `2021`
+6. [Real-time Machine Learning For Recommendations](https://eugeneyan.com/writing/real-time-recommendations/) `Eugene Yan` `2021`
     * Great discussions about batch VS. real-time scoring.
-6. [Ten Mistakes to Avoid When Creating a Recommendation System](https://funcorp.dev/blog/ten-mistakes-to-avoid) `Funcorp` `2022`
+7. [Ten Mistakes to Avoid When Creating a Recommendation System](https://funcorp.dev/blog/ten-mistakes-to-avoid) `Funcorp` `2022`
     * Practical and comprehensive guide from practitioner's perspective.
-7. [Core Modeling at Instagram](https://instagram-engineering.com/core-modeling-at-instagram-a51e0158aa48) `Instagram` 2019
+8. [Core Modeling at Instagram](https://instagram-engineering.com/core-modeling-at-instagram-a51e0158aa48) `Instagram` 2019
     * Gem that discusses the nitty-gritty details in the system.
-8. [Improving job matching with machine-learned activity features](https://engineering.linkedin.com/blog/2022/improving-job-matching-with-machine-learned-activity-features-) `Linkedin` `2022`
+9. [Improving job matching with machine-learned activity features](https://engineering.linkedin.com/blog/2022/improving-job-matching-with-machine-learned-activity-features-) `Linkedin` `2022`
 
 ### Classical Papers
 1. [De‍‌‍‍‍‌‍‌‌‍‌‍‍‌‍‍‌‌‍‍ep Neural Networks for YouTube Recommendations](https://research.google.com/pubs/archive/45530.pdf) `YouTube` `2016`
