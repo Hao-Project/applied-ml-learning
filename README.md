@@ -6,7 +6,7 @@ This is a collection of papers, blogs, and videos I have read/watched as a learn
 1. [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) `Chip Huyen` `2022`
     * Covers end-to-end life cycle of ML with real industry examples. Must read.
 2. [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/) `Valliappa Lakshmanan, Sara Robinson, Michael Munn` `2020`
-    * A good complementary to Chip Huyen's book.
+    * A good complement to Chip Huyen's book.
 
 ## Recommendation System
 ### RecSys Design Patterns:
