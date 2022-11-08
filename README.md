@@ -34,7 +34,10 @@ This is a collection of papers, blogs, and videos I have read/watched as a learn
 2. [Wide & Deep Learning for Recommender Systems
 ](https://arxiv.org/pdf/1606.07792.pdf) `Google` `2016`
 3. [Recommending What Video to Watch Next: A Multitask Ranking System](https://daiwk.github.io/assets/youtube-multitask.pdf) `YouTube` `2019`
-4. [Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://arxiv.org/pdf/2209.07663.pdf) `Bytedance` `2022`
+
+### Real time Recommendation
+1. [Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://arxiv.org/pdf/2209.07663.pdf) `Bytedance` `2022`
+2. [How Pinterest Leverages Realtime User Actions in Recommendation to Boost Homefeed Engagement Volume](https://medium.com/pinterest-engineering/how-pinterest-leverages-realtime-user-actions-in-recommendation-to-boost-homefeed-engagement-volume-165ae2e8cde8) `Pinterest` `2022`
 
 ### RecSys for Specific Product:
 1. [Powered by AI: Instagram’s Explore recommender system](https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system/) `Instagram` `2019`
