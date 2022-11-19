@@ -67,7 +67,8 @@ This is a collection of papers, blogs, and videos I have read/watched as a learn
 ## A/B testing:
 1. [Meet Dash-AB — The Statistics Engine of Experimentation at DoorDash](https://doordash.engineering/2022/05/24/meet-dash-ab-the-statistics-engine-of-experimentation-at-doordash/)
 `DoorDash` `2022`
-
+2. [Balancing Velocity and Confidence in Experimentation](https://doordash.engineering/2022/11/15/balancing-velocity-and-confidence-in-experimentation/) `DoorDash` `2022`
+    * No need to stick to alpha=0.05 and power=0.8! For certain decisicion, a tolerance of higher false positive in exchange of high velocity is worthwhile: it allows one to run more experiments!
 
 ## Enterprise-level Overview: 
 1. [150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com](https://blog.kevinhu.me/2021/04/25/25-Paper-Reading-Booking.com-Experiences/bernardi2019.pdf) `Booking.com` `2019`
