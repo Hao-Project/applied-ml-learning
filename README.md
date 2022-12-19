@@ -67,7 +67,13 @@ This is a collection of papers, blogs, and videos I have read/watched as a learn
 1. [Preserving Integrity in Online Social Networks](https://arxiv.org/pdf/2009.10311.pdf) `Facebook` `2020`
     * Comprehensive survey in the area of social media content moderation.
 2. [Machine Learning for Fraud Detection in Streaming Services](https://netflixtechblog.medium.com/machine-learning-for-fraud-detection-in-streaming-services-b0b4ef3be3f6) `Netflix` `2022`
+3. [MLOps Meetup: How WhatsApp catches and fights abuse](https://youtu.be/hdlW2kKkm3A) `WhatsApp` `2022`
+    * How to detect abuse without using features about content (WhatsApp uses end-to-end encryption)
 
+
+## Prescriptive Machine Learning
+1. [How The New York Times Uses Machine Learning To Make Its Paywall Smarter](https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8) `New York Times` `2022`
+    * How to test prescriptive ML model by A/B testing. How to quantify impact given two optimization goals.
 
 ## A/B testing:
 1. [Meet Dash-AB — The Statistics Engine of Experimentation at DoorDash](https://doordash.engineering/2022/05/24/meet-dash-ab-the-statistics-engine-of-experimentation-at-doordash/)
